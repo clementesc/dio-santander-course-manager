@@ -1,16 +1,5 @@
-<!--
-<p>{{ title }} app is running!</p>
-<br/>
-<p>Meu nome é {{name}}</p>
-<br/>
-<label>One Way data bind (uso de colchetes): apenas exibição</label>
-<input [ngModel]="name" name="name">
-<br/>
-<br/>
-<label>Two Way data bind (uso de colchetes+parenteses): exibição e atualização</label>
-<input [(ngModel)]="name" name="name">
--->
+<app-nav-bar></app-nav-bar>
 
-<div class="container">
-    <app-course-list></app-course-list>
+<div class="container mt-4">
+    <router-outlet></router-outlet>
 </div>
