@@ -1,4 +1,9 @@
-# CourseManager
+# Course Manager
+An Angular 8 project.
+
+The Project that is part of Santander Bootcamp Fullstack Developer, promoted by [Santander](https://app.becas-santander.com/) and [Digital Innovation One](https://web.digitalinnovation.one/). Classes presented by [Wesllhey Netherlands](https://github.com/wesllhey).
+
+## Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
 
